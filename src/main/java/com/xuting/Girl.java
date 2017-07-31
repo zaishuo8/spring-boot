@@ -10,7 +10,7 @@ import javax.persistence.Id;
 
 @Entity      // 该注解表示对应数据库里边的表
 public class Girl {
-
+            ////123123123
     @Id                   // 主键
     @GeneratedValue       // 自增加
     private Integer id;
